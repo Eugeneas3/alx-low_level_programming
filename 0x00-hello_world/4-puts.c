@@ -1,8 +1,7 @@
 #include<stdio.h>
 /**
- * A programme that uses puts instead of printf.
- * A programme that does not return (0).
- * The main function is wher the code is written
+ * main - A programme that uses puts instead of printf
+ *Return: 0 (Success)  A programme that does not return (0)
  */
 int main(void)
 {
